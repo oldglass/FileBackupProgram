@@ -1,0 +1,1 @@
+Discord.exe/*/[False, True, 'C:/Users/seosangwon/Documents/백업 테스트용 폴더/FBP_2022-02-25_13-04-56/Warframe_nanum_lottery-v1.6alpha-hotfix', 'C:/Users/seosangwon/Documents/백업 테스트용 폴더', '2023-01-13_19-08-27']
