@@ -1,1 +1,0 @@
-AGMService.exe/*/[False, True, 'C:/Users/seosangwon/Documents/백업 테스트용 폴더/AGSService/FBP_2022-08-11_22-07-01/AGMService/FBP_2022-08-08_13-25-42/01 엑셀', 'C:/Users/seosangwon/Documents/백업 테스트용 폴더', '2022-09-22_13-30-10']
